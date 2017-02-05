@@ -1,0 +1,16 @@
+function singlebuycrouton() {
+  document.getElementById('demo').src="https://static1.zipso.net/wp-content/uploads/2014/09/crouton2a.jpg";
+  document.getElementById('demo').style.display='block';
+  
+}
+
+function manybuycrouton() {
+    document.getElementById('demo').style.display='block';
+  document.getElementById('demo').src='http://cookdiary.net/wp-content/uploads/2015/09/Crouton.jpg';
+  
+}
+
+function buyicbm() {
+    document.getElementById('demo').style.display='block';
+  document.getElementById('demo').src='https://1.bp.blogspot.com/-ivuXQC-Q9WM/V3SgL8Ak5yI/AAAAAAAAIN4/TrcZ0Z7aPd0gZqLD9hckRMv7EIFMwqZHwCLcB/s1600/12800186_10187142%2B%2B%255BR%255D%2B.jpg'
+}
